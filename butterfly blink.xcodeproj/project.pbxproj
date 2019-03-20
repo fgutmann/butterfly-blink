@@ -11,6 +11,7 @@
 		F70531752242621C0059D510 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70531742242621C0059D510 /* ViewController.swift */; };
 		F70531772242621D0059D510 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F70531762242621D0059D510 /* Assets.xcassets */; };
 		F705317A2242621D0059D510 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F70531782242621D0059D510 /* Main.storyboard */; };
+		F76B4CAF22426A7D00F6A104 /* Blinker.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76B4CAE22426A7D00F6A104 /* Blinker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		F70531792242621D0059D510 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F705317B2242621D0059D510 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F705317C2242621D0059D510 /* butterfly_blink.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = butterfly_blink.entitlements; sourceTree = "<group>"; };
+		F76B4CAE22426A7D00F6A104 /* Blinker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Blinker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				F70531722242621C0059D510 /* AppDelegate.swift */,
+				F76B4CAE22426A7D00F6A104 /* Blinker.swift */,
 				F70531742242621C0059D510 /* ViewController.swift */,
 				F70531762242621D0059D510 /* Assets.xcassets */,
 				F70531782242621D0059D510 /* Main.storyboard */,
@@ -133,6 +136,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F76B4CAF22426A7D00F6A104 /* Blinker.swift in Sources */,
 				F70531752242621C0059D510 /* ViewController.swift in Sources */,
 				F70531732242621C0059D510 /* AppDelegate.swift in Sources */,
 			);
