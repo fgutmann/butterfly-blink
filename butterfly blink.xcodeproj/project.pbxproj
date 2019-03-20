@@ -23,6 +23,7 @@
 		F705317B2242621D0059D510 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F705317C2242621D0059D510 /* butterfly_blink.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = butterfly_blink.entitlements; sourceTree = "<group>"; };
 		F76B4CAE22426A7D00F6A104 /* Blinker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Blinker.swift; sourceTree = "<group>"; };
+		F76B4CB0224271C000F6A104 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +40,7 @@
 		F70531662242621C0059D510 = {
 			isa = PBXGroup;
 			children = (
+				F76B4CB0224271C000F6A104 /* readme.md */,
 				F70531712242621C0059D510 /* butterfly blink */,
 				F70531702242621C0059D510 /* Products */,
 			);
